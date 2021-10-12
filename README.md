@@ -1,3 +1,3 @@
-# sodoku solver project
+# sudoku solver project
 
 #second project created with python by me
