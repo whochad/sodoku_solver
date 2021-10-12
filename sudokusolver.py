@@ -1,6 +1,6 @@
-# sodoku_solver
+# sudoku_solver
 
-#sodoku board
+#sudoku board
 board = [
     [1,0,0,4,8,9,0,0,6],
     [7,3,0,0,0,0,0,4,0],
